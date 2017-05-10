@@ -28,9 +28,9 @@
         <li><a href="contact.php">Contact Us</a></li>
       </ul>
     </div>
-  		  <div class="hed">  
-       		<h1>Company Profile</h1>
-          </div>
+	<div class="hed">  
+	<h1>Company Profile</h1>
+	</div>
      <div class="nav">
 		London<br>
 		Paris<br>
@@ -100,9 +100,6 @@
 					<p><b>Designation : Software engineer</b></p>
 					
 				</div>
-		
-
-		
 				<div class="boder">
 					
 					<div class="photo1">
@@ -115,10 +112,7 @@
 					<p><b>Phone No : 01771-000096</b></p>
 					<p><b>Designation : Software engineer</b></p>
 				</div>
-		
-	
-		
-        <div class="footer_main">
+			<div class="footer_main">
 
             <div class="footer_bar">
                 <div class="box1">
@@ -130,11 +124,11 @@
                 </div>
                 <div class="box2">
                  <h1>Support</h1>
-                Web Application 
-				Business Process Remodeling
-				IT Consultancy Entry Services
-				System Integration & Data Migration
-				Data Analysis & Business Intelligence
+					Web Application 
+					Business Process Remodeling
+					IT Consultancy Entry Services
+					System Integration & Data Migration
+					Data Analysis & Business Intelligence
                 </div>
                 <div class="box3">
                   <h1>Contact</h1>
